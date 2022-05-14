@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title id="title">My journey through html & css</title>
+        <title>My journey through html & css</title>
         <style>
             
             .day-t {
@@ -22,7 +22,7 @@
         
         <a href="#d-2-t">Day two</a> <br>
         
-        <h1>Volt's blog</h1> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Kan_Academy.xcf/800px-Kan_Academy.xcf.png?20210319211458" width="200">
+        <h1 id="title">Volt's blog</h1> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Kan_Academy.xcf/800px-Kan_Academy.xcf.png?20210319211458" width="200">
 
         <h3>Courses</h3>
         <ul>

@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>My journey through html & css</title>
+        <title id="title">My journey through html & css</title>
         <style>
             
             .day-t {
